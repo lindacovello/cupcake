@@ -16,10 +16,38 @@ body
 #cupcake1
 {
 	position:absolute;
-	left:185px;
+	left:180px;
 	top:100px;
 }
-
-
+#cupcake2
+{
+	position:absolute;
+	left:300px;
+	top:130px;
+}
+#cupcake3
+{
+	position:absolute;
+	left:420px;
+	top:100px;
+}
+#cupcake4
+{
+	position:absolute;
+	left:300px;
+	top:260px;
+}
+#cupcake5
+{
+	position:absolute;
+	left:180px;
+	top:280px;
+}
+#cupcake6
+{
+	position:absolute;
+	left:420px;
+	top:280px;
+}
 
 
