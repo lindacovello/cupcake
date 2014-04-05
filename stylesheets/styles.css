@@ -2,8 +2,24 @@ body
 {
 	background-color:#FF66FF;
 }
+#container
+{
+	width:1000px;
+}
 .toplinks
 {
+    display:inline;
+    word-spacing:30px;
 	color:#FFFF66;
-	text-align:center;
+	padding-left:250px;
 }
+#cupcake1
+{
+	position:absolute;
+	left:185px;
+	top:100px;
+}
+
+
+
+
